@@ -1,5 +1,3 @@
-
-Notes in markdown, unformatted
 # How to improve exception throwing
 
 * Template code bloat judo
